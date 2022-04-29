@@ -1,0 +1,13 @@
+N:\source\repos\Deliveroo\Deliveroo\obj\Debug\Deliveroo.csproj.AssemblyReference.cache
+N:\source\repos\Deliveroo\Deliveroo\obj\Debug\Deliveroo.csproj.CoreCompileInputs.cache
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\Deliveroo.exe.config
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\Deliveroo.exe
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\Deliveroo.pdb
+N:\source\repos\Deliveroo\Deliveroo\obj\Debug\Deliveroo.exe
+N:\source\repos\Deliveroo\Deliveroo\obj\Debug\Deliveroo.pdb
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\Newtonsoft.Json.dll
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\Newtonsoft.Json.xml
+N:\source\repos\Deliveroo\Deliveroo\obj\Debug\Deliveroo.csproj.CopyComplete
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\NLog.dll
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\NLog.xml
+N:\source\repos\Deliveroo\Deliveroo\bin\Debug\NLog.config
