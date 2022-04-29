@@ -14,3 +14,12 @@ Flow:
 checks for and opens \\domain\sysvol\guid\user\preferences\Printers.xml
 
 Log is created in %appdata%\Deliveroo
+
+Log example:
+2022-04-28 15:14:20.2211|INFO|Reading GPP from bkhs.internal {F927136B-03C3-4B63-A262-8F4E1AB240DA}|
+2022-04-28 15:14:22.2418|INFO|Adding computer: KH-PC-TESTPC -> \\printServer.mydomain.internal\Printer|
+2022-04-28 15:14:26.9089|INFO|Successfully connected printer.|
+
+2022-04-29 11:21:07.5885|INFO|Reading GPP from bkhs.internal11 {F927136B-03C3-4B63-A262-8F4E1AB240DA}|
+2022-04-29 11:21:07.6199|INFO|GPO Not found|
+
