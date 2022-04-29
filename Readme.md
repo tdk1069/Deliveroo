@@ -1,4 +1,4 @@
-Deliveroo - no relation
+Deliveroo - _Any similarity to actual companies, persons, or actual events, is purely coincidental_
 
 Small utility to run at logon (or on demand) to read a gpo directly and parse the xml preferences to add printers based on those preferences.
 
